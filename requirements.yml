@@ -1,6 +1,6 @@
 ---
 collections:  
   - src: git@github.com:/Sayalijoshi25/ping.git
-    name: test
+    name: apache
     type: git
     version: main
