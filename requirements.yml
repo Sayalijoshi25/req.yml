@@ -1,6 +1,6 @@
 ---
 collections:  
-  - src: https://github.com/Sayalijoshi25/apache-repo.git
+  - src: https://github.com/Sayalijoshi25/apache-repo/tree/master
     name: apache
     type: git
     version: master
