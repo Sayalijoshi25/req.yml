@@ -2,3 +2,4 @@
  - src: git@github.com:/Sayalijoshi25/ping.git
    name: test
    scm: git
+   version: main
