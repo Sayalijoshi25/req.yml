@@ -1,5 +1,6 @@
 ---
- - src: git@github.com:/Sayalijoshi25/ping.git
-   name: test
-   scm: git
-   version: main
+collections:  
+  - src: git@github.com:/Sayalijoshi25/ping.git
+    name: test
+    type: git
+    version: main
