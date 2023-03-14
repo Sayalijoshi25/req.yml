@@ -1,4 +1,4 @@
 ---
  - src: git@github.com:/Sayalijoshi25/ping.git
-   name: test_role
+   name: test
    scm: git
