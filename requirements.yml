@@ -1,6 +1,5 @@
 ---
 collections:  
-  - src: https://github.com/Sayalijoshi25/apache-repo/tree/master
-    name: apache
+  - src: https://github.com/Sayalijoshi25/req.yml.git
     type: git
     version: master
