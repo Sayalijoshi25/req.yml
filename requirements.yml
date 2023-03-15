@@ -1,4 +1,4 @@
 - src: https://github.com/Sayalijoshi25/apache-repo.git
-    name: apache
-    type: git
+    #name: apache
+    scm: git
     version: master
