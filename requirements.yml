@@ -1,4 +1,7 @@
-- name: apache
-  src: https://github.com/Sayalijoshi25/apache-repo
-  version: main
-  scm: git
+---
+roles:
+  # Install a role from Ansible Galaxy.
+  - name: apache
+    src: https://github.com/Sayalijoshi25/apache-repo
+    scm: git
+    
