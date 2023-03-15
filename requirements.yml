@@ -1,6 +1,6 @@
 ---
 collections:  
-  - src: https://github.com/Sayalijoshi25/apache-repo/blob/6b52c91bfefd3447e04de32b0eef973e21716e26/apache/tasks/main.yml
+  - src: https://github.com/Sayalijoshi25/apache-repo.git
     name: apache
     type: git
     version: master
